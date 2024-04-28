@@ -1,4 +1,5 @@
 # Craigslist_Redesign_HCI
+Ryan(Aron) Fitzgerald, Luke Swisher, and Ryan Ferguson
 link to github: https://github.com/murmur6/Craigslist_Redesign_HCI/tree/master
 1. Ensure you have Node.js installed on your system.
 2. Extract the folder if zipped
